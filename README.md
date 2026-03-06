@@ -1,5 +1,9 @@
-## Hi there 👋
+Hi, I'm Lukas Ishihara and I am a graduating Business Analyst with experience in SQL, data analysis, and turning data into business decisions.
 
+My portfolio projects span across different aspects of data and business analysis from my role as Business Analyst (Founder) at The Collective.
+
+Tools: PostgreSQL · SQLite · Google Sheets · Tableau · Excel
+Contact: lukas.ishihara@gmail.com
 <!--
 **Lukas-Ishihara/Lukas-Ishihara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
