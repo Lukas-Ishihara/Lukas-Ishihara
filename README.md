@@ -2,10 +2,11 @@ Hi, I'm Lukas Ishihara, a graduating Business Analyst with experience in SQL, da
 
 Currently seeking internship and entry-level analyst roles.
 
+---
 Tools: PostgreSQL · SQLite · Google Sheets · Tableau · Excel  
 Contact: lukas.ishihara@gmail.com
   
------------------------------------------------------------  
+---  
 ## Featured Presentations:
 
 ## 1) [Reversing a Declining Department](https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department/blob/main/Lukas_Ishihara_Reversing_a_Declining_Department.pdf)
