@@ -2,7 +2,7 @@ Hi, I'm Lukas Ishihara, a graduating Business Analyst, with experience in SQL, d
 
 My portfolio projects are from my role as Business Analyst (Founder) at The Collective.  
 Quick Access Presentations:
-[Reversing a Declining Department]([https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department](https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department/blob/main/Lukas_Ishihara_Reversing_a_Declining_Department.pdf))
+[Reversing a Declining Department](https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department](https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department/blob/main/Lukas_Ishihara_Reversing_a_Declining_Department.pdf)
 [Analyzing Advertiser Retention]([https://github.com/Lukas-Ishihara/Analyzing-Advertiser-Retention-After-First-Sale](https://github.com/Lukas-Ishihara/Analyzing-Advertiser-Retention-After-First-Sale/blob/main/Lukas_Ishihara_Advertiser_Retention_Analysis.pdf))
 [Sales Performance Analytics Dashboard]([https://github.com/Lukas-Ishihara/Sales-Performance-Analytics-Dashboard](https://github.com/Lukas-Ishihara/Sales-Performance-Analytics-Dashboard/blob/main/Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf))
 [Event Capacity Planning: Decision Support Analysis]([https://github.com/Lukas-Ishihara/Event-Capacity-Planning-Decision-Support-Analysis](https://github.com/Lukas-Ishihara/Event-Capacity-Planning-Decision-Support-Analysis/blob/main/Lukas_Ishihara_Event_Capacity_Decision_Support_Analysis.pdf))
