@@ -5,6 +5,7 @@ Currently seeking internship and entry-level analyst roles.
 ---
 Tools: PostgreSQL · SQLite · Google Sheets · Tableau · Excel  
 Contact: lukas.ishihara@gmail.com
+[https://www.linkedin.com/in/lukas-ishihara](https://www.linkedin.com/in/lukas-ishihara/)
   
 ---  
 ## Featured Presentations:
