@@ -1,6 +1,7 @@
 Hi, I'm Lukas Ishihara, a graduating Business Analyst, with experience in SQL, data analysis, and turning data into business decisions.  
 My portfolio projects are from my role as Business Analyst (Founder) at The Collective.  
-  
+
+-----------------------------------------------------------  
 Quick Access Presentations:
 
 1) [Reversing a Declining Department](https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department/blob/main/Lukas_Ishihara_Reversing_a_Declining_Department.pdf)  
