@@ -1,6 +1,6 @@
 Hi, I'm Lukas Ishihara, a graduating Business Analyst, with experience in SQL, data analysis, and turning data into business decisions.  
-
 My portfolio projects are from my role as Business Analyst (Founder) at The Collective.  
+  
 Quick Access Presentations:
 
 1) [Reversing a Declining Department](https://github.com/Lukas-Ishihara/Reversing-a-Declining-Department/blob/main/Lukas_Ishihara_Reversing_a_Declining_Department.pdf)  
@@ -8,6 +8,6 @@ Quick Access Presentations:
 3) [Sales Performance Analytics Dashboard](https://github.com/Lukas-Ishihara/Sales-Performance-Analytics-Dashboard/blob/main/Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)  
 4) [Event Capacity Planning: Decision Support Analysis](https://github.com/Lukas-Ishihara/Event-Capacity-Planning-Decision-Support-Analysis/blob/main/Lukas_Ishihara_Event_Capacity_Decision_Support_Analysis.pdf)  
   
-  
+------------------------------------------------------------  
 Tools: PostgreSQL · SQLite · Google Sheets · Tableau · Excel  
 Contact: lukas.ishihara@gmail.com
