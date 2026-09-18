@@ -1,6 +1,6 @@
 Hi, I'm Lukas Ishihara, a graduating Business Analyst with experience in SQL, data analysis, and turning data into business decisions. My portfolio projects are from my role as a Business Analyst (Founder) at The Collective.  
 
-Currently seeking internship and entry-level analyst roles.
+Currently seeking entry-level analyst roles.
 
 ---
 Tools: PostgreSQL · SQLite · Google Sheets · Tableau · Excel  
