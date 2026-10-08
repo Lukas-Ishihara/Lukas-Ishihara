@@ -17,7 +17,3 @@ Linkedin: [https://www.linkedin.com/in/lukas-ishihara](https://www.linkedin.com/
 [![Click to view full PDF](Advertiser_Retention.PNG)](https://github.com/Lukas-Ishihara/Analyzing-Advertiser-Retention-After-First-Sale/blob/main/Lukas_Ishihara_Advertiser_Retention_Analysis.pdf)
 ## 3) [Sales Performance Analytics Dashboard](https://github.com/Lukas-Ishihara/Sales-Performance-Analytics-Dashboard/blob/main/Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf) - 7 Slides
 [![Click to view full PDF](Doughnut_Wheels.PNG)](https://github.com/Lukas-Ishihara/Sales-Performance-Analytics-Dashboard/blob/main/Lukas_Ishihara_Sales_Performance_Analytics_Dashboard.pdf)
-
-If you made it this far down the page, thanks! Here is a mnemonic for my name (Lukas Ishihara):  
-A restroom and a kiss  
-An eye test that some will miss
